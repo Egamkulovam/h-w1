@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+    box-sizing: border-box;
+}
+.bi{
+    width: 90%;
+    margin-top: 50px;
+}
+
+  /* Container holding the image and the text */
+.container {
+    background: -o-repeating-linear-gradient();
+    position: absolute;
+    padding: 20px 20px ;
+    text-align: left;
+  }
+h2{
+    margin-top: 15px;
+}
+
+  H1{
+    width: 100%;
+    margin-bottom: 15px;
+
+  } 
+  .b{
+    margin: 20px 20px;
+    
+    padding: 1%;
+    background-color: rgb(56, 56, 207)
+    
+  }
+
+  
+  .text-block {
+    position: absolute;
+    bottom: 500px;
+    right: 600px;
+    border: 1px solid;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
